@@ -1,4 +1,4 @@
-SubLilyPond v.2
+SubLilyPond v.2.2
 ===============
 
 LilyPond syntax highlighting in Sublime Text 2 & 3.
@@ -9,17 +9,17 @@ LilyPond syntax highlighting in Sublime Text 2 & 3.
 
 This project aims at providing comprehensive and consistent syntax highlighting of [GNU LilyPond](http://lilypond.org) code in [Sublime Text 2 and 3](http://www.sublimetext.com).
 
-FORKED BY ProgrammerGeek123
+FORKED BY ProgrammerGeek123. email starfleetcaptain1927@gmail.com
 
 Future versions may include a LilyPond build engine and snippets/autcompletions. Feel free to contact me for feedback, bug reports, and feature suggestions.
 
-Music scholars seeking a complete typesetting solution may be interested in [LyTeXTools](https://www.github.com/yrammos/LyTeXTools), my LilyPond-enabled fork of [Marciano Siniscalchi’s](http://tekonomist.wordpress.com/) [LaTeXTools](http://github.com/SublimeText/LaTeXTools) package.
+
 
 ### Installing SubLilyPond
 
 SubLilyPond is distributed via [Will Bond's](http://wbond.net/) superb [Package Control](http://wbond.net/sublime_packages/package_control/package_developers). Alternatively, you may clone (or copy the contents of) this repository into your Sublime Text packages folder:
 
-    git clone http://github.com/yrammos/SubLilyPond.git
+    git clone http://github.com/ProgrammerGeek123/SubLilyPond.git
 
 ### Color schemes
 
@@ -34,6 +34,10 @@ You may easily optimize SubLilyPond for use with your favorite color scheme by t
 ### Scheme code embedded in LilyPond
 
 Since no Scheme syntax definition is currently available for Sublime Text 2 or 3, SubLilyPond parses embedded Scheme code using the Lisp syntax definition. Scheme is a Lisp dialect, of course, and this workaround has caused no glitches so far.
+
+### New in version 2.2
+
+- Added sublime-build file. Verified for macOS 10.15 only.
 
 ### New in version 2.1.1
 
