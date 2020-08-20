@@ -9,6 +9,8 @@ LilyPond syntax highlighting in Sublime Text 2 & 3.
 
 This project aims at providing comprehensive and consistent syntax highlighting of [GNU LilyPond](http://lilypond.org) code in [Sublime Text 2 and 3](http://www.sublimetext.com).
 
+FORKED BY ProgrammerGeek123
+
 Future versions may include a LilyPond build engine and snippets/autcompletions. Feel free to contact me for feedback, bug reports, and feature suggestions.
 
 Music scholars seeking a complete typesetting solution may be interested in [LyTeXTools](https://www.github.com/yrammos/LyTeXTools), my LilyPond-enabled fork of [Marciano Siniscalchi’s](http://tekonomist.wordpress.com/) [LaTeXTools](http://github.com/SublimeText/LaTeXTools) package.
