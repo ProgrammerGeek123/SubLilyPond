@@ -1,0 +1,3 @@
+{
+	"shell_cmd": "lilypond $file; open -a Preview.app $file_base_name.pdf"
+}
